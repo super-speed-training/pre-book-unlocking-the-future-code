@@ -1,9 +1,3 @@
 
-EP22_MainVDO.md
-EP22_01.md
-EP23_01.md
-EP23_02.md
-EP23_03.md
 EP23_04.md
-EP23_MainVDO.md
 EP24_01.md
