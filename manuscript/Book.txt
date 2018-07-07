@@ -3,3 +3,7 @@ EP23_04.md
 EP24_01.md
 EP24_02.md
 EP24_03.md
+EP24_MainVDO.md
+EP25_MainVDO.md
+EP26_MainVDO.md
+EP27_MainVDO.md
